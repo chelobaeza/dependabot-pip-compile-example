@@ -161,9 +161,9 @@ cryptography==42.0.4 \
     --hash=sha256:fb0cef872d8193e487fc6bdb08559c3aa41b659a7d9be48b2e10747f47863925 \
     --hash=sha256:ffc73996c4fca3d2b6c1c8c12bfd3ad00def8621da24f547626bf06441400449
     # via -r prod.in
-django==4.2.22 \
-    --hash=sha256:0a32773b5b7f4e774a155ee253ab24a841fed7e9e9061db08bf2ce9711da404d \
-    --hash=sha256:e726764b094407c313adba5e2e866ab88f00436cad85c540a5bf76dc0a912c9e
+django==4.2.27 \
+    --hash=sha256:b865fbe0f4a3d1ee36594c5efa42b20db3c8bbb10dff0736face1c6e4bda5b92 \
+    --hash=sha256:f393a394053713e7d213984555c5b7d3caeee78b2ccb729888a0774dff6c11a8
     # via
     #   -r prod.in
     #   sentry-sdk
